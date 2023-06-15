@@ -27,3 +27,8 @@ h1 {
 .recipe-content {
     text-align: left;
 }
+
+h2,
+a {
+    text-transform: uppercase;
+}
