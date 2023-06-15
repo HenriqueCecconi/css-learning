@@ -28,8 +28,8 @@ h1 {
     text-align: left;
 }
 
-h2,
-a {
+.recipe-card h2,
+.recipe-card a {
     text-transform: uppercase;
 }
 
